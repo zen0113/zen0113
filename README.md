@@ -1,4 +1,3 @@
-<div align="center">
 
 <br>
 
@@ -56,39 +55,6 @@
 </p>
 
 <br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zen0113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen0113&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zen0113&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae" />
-</p>
-
-<br>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zen0113&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<br>
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zen0113&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
-</p>
-
-<br>
-
-## 🎯 Hits
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzen0113&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</p>
-
 
 
 <br>
