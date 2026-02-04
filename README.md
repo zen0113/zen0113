@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=Kim%20Chaemin&fontSize=80&animation=twinkling&fontAlignY=38&desc=Game%20%26%20App%20Developer&descAlignY=52&descAlign=62)
 
 <br>
 
@@ -61,21 +60,6 @@
 
 <br>
 
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" />
-</p>
-
-<br>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer)
 
 </div>
-
-<!-- 
-  🐾 Hidden cat easter eggs for those who read the source code! 🐾
-  ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛  Meow~
-  Made with ♡ by a coding cat
-  ∧,,,∧
- (  ̳• · • ̳)
- /    づ♡ Thanks for visiting!
--->
