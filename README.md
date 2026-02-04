@@ -1,5 +1,3 @@
-<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=Kim%20Chaemin&fontSize=80&animation=twinkling&fontAlignY=38&desc=Game%20%26%20App%20Developer&descAlignY=52&descAlign=62)
 
 <br>
@@ -7,7 +5,6 @@
 ## 😺 About Me
 ```
 👤 Name        : 김채민 (Kim Chaemin)
-🎂 Birthday    : 2002.09.07
 🎓 Education   : 서울여자대학교 디지털미디어학과 / 소프트웨어융합학과 복수전공
 💡 Motto       : 화면을 끄고도 '다시 하고 싶다'는 마음이 들게 만드는 몰입의 순간을,
                 장기 서비스 환경에서도 안정적으로 유지될 수 있는 코드와 시스템으로 구현하는 개발자
@@ -60,41 +57,6 @@
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<details>
-<summary>📈 Click to see stats</summary>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&icon_color=F9A8D4&text_color=E9D5FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&text_color=E9D5FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&stroke=A78BFA&ring=F9A8D4&fire=F9A8D4&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=E9D5FF" />
-</p>
-
-</details>
-
-<br>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<br>
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=A78BFA&line=F9A8D4&point=E9D5FF" />
-</p>
-
-<br>
 
 
 <br>
